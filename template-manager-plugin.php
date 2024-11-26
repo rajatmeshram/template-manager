@@ -3,7 +3,7 @@
  * Plugin Name: Template Manager
  * Description: A plugin to dynamically create templates, JS/CSS files, and enqueue them.
  * Version: 1.1
- * Author: Rajat
+ * Author: Rajat Meshram
  */
 
 if (!defined('ABSPATH')) exit;
