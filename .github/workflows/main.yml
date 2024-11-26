@@ -1,6 +1,6 @@
-name:Deploy
+name: Build & Deploy
 
 on:
- push:
-  branches:
-    - main
+  push:
+    branches:
+      - main
